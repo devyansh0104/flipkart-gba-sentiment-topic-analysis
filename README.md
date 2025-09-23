@@ -1,6 +1,5 @@
 📊 Sentiment & Topic Analysis of Customer Reviews
-This repository contains a complete pipeline for text analysis on customer reviews, including preprocessing, sentiment analysis, and visualization. 
-It transforms raw review data into actionable insights using Python, NLTK, TextBlob, and various visualization tools.
+This repository contains a complete pipeline for text analysis on customer reviews, including preprocessing, sentiment analysis, and visualization. It transforms raw review data into actionable insights using Python, NLTK, TextBlob, and various visualization tools.
 
 🚀 Features
 ✅ Data Preprocessing
@@ -56,8 +55,6 @@ Topic Modeling → Word clouds are generated to highlight key topics.
 Visualizations → Pie charts and word clouds are created to visualize the findings.
 
 ▶️ How to Run
-Clone this repository.
-
 Make sure you have the required libraries installed:
 
 Bash
@@ -65,4 +62,4 @@ Bash
 pip install pandas xlrd nltk textblob matplotlib seaborn wordcloud
 First, run the flipkart gba_1.ipynb notebook to preprocess the data and create the preprocessed_data.xlsx file.
 
-Next, run the flipkart gba_2.ipynb notebook to perform the sentiment and topic analysis and generate the visualizations.
+Next, run the flipkart gba_2.ipynb notebook to perform the sentiment and topic analysis, and generate the visualizations.
